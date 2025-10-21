@@ -9,7 +9,7 @@ NewsFusion is an innovative web app designed to streamline the news aggregation 
 
 To further enrich the user experience, NewsFusion includes additional features such as a Screenshot tool and a Notes section, enabling users to capture and organize key information for easy reference. These features offer a more personalized interaction, giving users the flexibility to engage with the content in a tailored manner. The app also incorporates a forward-thinking approach, with plans to analyze user preferences and eventually introduce an SMS or WhatsApp news thread, allowing for real-time updates. After successful development, NewsFusion has been deployed on GitHub, ensuring public access and fostering open-source collaboration for continuous improvement.
 # Go to Deployed Website on GitHub
-[NewsFusion](https://anas-alfaaz.github.io/NewsFusion/)
+[NewsFusion](https://aasifk71.github.io/NewsFusion/)
 # Let's have a walk over the Project
 * Landing Page
 ![image](https://github.com/user-attachments/assets/1dd26073-220f-498b-9c9d-3e1a39cd1ef7)
@@ -130,7 +130,7 @@ Bootstrap is a popular CSS framework that provides pre-built, responsive grid sy
 # Query, Feedback, Bug, Contribute ?? 
 Reach out to me at
 * Email: 02md02anas@gmail.com
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-anas-dce/)
+* LinkedIn: [LinkedIn](www.linkedin.com/in/mohd-aasif-80568b2a7)
 
 # License
 All content used in this project, including news headlines and articles, is the property of their respective copyright holders, such as The Times of India, The Hindu, Hindustan Times, and The Economic Times. This project is intended solely for educational and personal use, and is not for commercial gain. The content is aggregated for the purpose of providing a news aggregation service and does not claim ownership or authorship of the original material. All trademarks and registered trademarks are the property of their respective owners.
