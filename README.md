@@ -129,8 +129,8 @@ Bootstrap is a popular CSS framework that provides pre-built, responsive grid sy
 
 # Query, Feedback, Bug, Contribute ?? 
 Reach out to me at
-* Email: 02md02anas@gmail.com
-* LinkedIn: [LinkedIn](www.linkedin.com/in/mohd-aasif-80568b2a7)
+* Email:aasif62023@gmail.com
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohd-aasif-80568b2a7)
 
 # License
 All content used in this project, including news headlines and articles, is the property of their respective copyright holders, such as The Times of India, The Hindu, Hindustan Times, and The Economic Times. This project is intended solely for educational and personal use, and is not for commercial gain. The content is aggregated for the purpose of providing a news aggregation service and does not claim ownership or authorship of the original material. All trademarks and registered trademarks are the property of their respective owners.
